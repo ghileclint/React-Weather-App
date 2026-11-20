@@ -89,3 +89,6 @@ function App() {
 }
 
 export default App;
+
+// // Next exercise
+// // populate a data to show when our input field is empty i.e. when a city is not entered
